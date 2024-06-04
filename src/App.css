@@ -39,3 +39,11 @@
 .read-the-docs {
   color: #888;
 }
+
+.button-components-section {
+  width: 200px;
+}
+
+.button-components-section h3 {
+  text-align: left;
+}
